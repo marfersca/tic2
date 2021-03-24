@@ -1,5 +1,5 @@
 {
-  "title": "TIC",
+  "title": "tic2",
   "date": "18/02/21",
   "description": {},
   "license": {
@@ -8,12 +8,12 @@
   "meta_langs": [
     "es"
   ],
-  "mainFile": "tic.jclic",
+  "mainFile": "tic2.jclic",
   "cover": "project-cover.jpg",
   "thumbnail": "project-thumb.jpg",
-  "activities": 1,
+  "activities": 2,
   "mediaFiles": 6,
-  "totalSize": 296074,
+  "totalSize": 310450,
   "files": [
     "favicon.ico",
     "icon-192.png",
@@ -25,6 +25,8 @@
     "project.json",
     "tic.jclic",
     "tic.jclic.js",
+    "tic2.jclic",
+    "tic2.jclic.js",
     "unnamed.png"
   ]
 }
