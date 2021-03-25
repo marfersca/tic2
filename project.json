@@ -1,19 +1,21 @@
 {
-  "title": "tic2",
+  "title": "TIC",
   "date": "18/02/21",
-  "description": {},
+  "description": {
+    "es": ""
+  },
   "license": {
     "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
   },
   "meta_langs": [
     "es"
   ],
-  "mainFile": "tic2.jclic",
+  "mainFile": "tic.jclic",
   "cover": "project-cover.jpg",
   "thumbnail": "project-thumb.jpg",
   "activities": 2,
   "mediaFiles": 6,
-  "totalSize": 310450,
+  "totalSize": 309412,
   "files": [
     "favicon.ico",
     "icon-192.png",
@@ -25,8 +27,6 @@
     "project.json",
     "tic.jclic",
     "tic.jclic.js",
-    "tic2.jclic",
-    "tic2.jclic.js",
     "unnamed.png"
   ]
 }
