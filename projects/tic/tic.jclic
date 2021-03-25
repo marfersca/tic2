@@ -4,11 +4,6 @@
   <title>TIC</title>
   <revision description="created" date="2/18/21" />
   <descriptors />
-  <cover file="project-cover.jpg" />
-  <thumb file="project-thumb.jpg" />
-  <icon16 file="favicon.ico" />
-  <icon72 file="icon-72.png" />
-  <icon192 file="icon-192.png" />
   <meta_langs>es</meta_langs>
   <descriptions>
    <description language="es" />
@@ -26,7 +21,7 @@
      <style>
       <color background="0x99FFFF" border="0xCCFFFF" />
      </style>
-     <p>DOCENTE- INTERNET- ALUMNOS- ESCUELA- TRADICIONAL- ONLINE- TIC- TECNOLOGIA- SOFTWARE- HARDWARE- PRODUCCION- OBJETIVOS- CONTENIDO-EVALUACION- APRENDIZAJE- INFORMACION</p>
+     <p>DOCENTE- INTERNET- ALUMNOS- ESCUELA- TRADICIONAL- ONLINE- TIC- TECNOLOGIA- SOFTWARE- HARDWARE- PRODUCCION- OBJETIVOS- CONTENIDO- DISEÑO- EVALUACION- APRENDIZAJE- INFORMACION</p>
     </cell>
     <cell type="final">
      <style>
@@ -57,14 +52,14 @@
      <row>**S****I******E*N*ZW</row>
      <row>**TALEUCSE***S**INIA</row>
      <row>**A****I*S*AIO**LODR</row>
-     <row>O*G****OO*I*BF**NINE</row>
-     <row>D*R****N*G*J*T**OCE*</row>
-     <row>I*A***MAO*E*EW***AR*</row>
-     <row>N*M**U*L*T*T*A***MP*</row>
-     <row>E***L*O*I*N**R*O*RA*</row>
-     <row>T**A*N*V*E***EN**O**</row>
-     <row>N***C*O*C****C***F**</row>
-     <row>O**E*S*O****E****N**</row>
+     <row>O*G****OO*I**F**NINE</row>
+     <row>D*R****N*G***T**OCE*</row>
+     <row>I*A***MAO***EW***AR*</row>
+     <row>N*M**U*L***T*A***MP*</row>
+     <row>E***L*O***N**R*O*RA*</row>
+     <row>T**A*N***E***EN**O**</row>
+     <row>N***C***C****C***F**</row>
+     <row>O**E***O****E****N**</row>
      <row>C*T***D****TRADICION</row>
     </text>
    </textGrid>
@@ -77,23 +72,19 @@
     <clue id="5">CONTENIDO</clue>
     <clue id="6">INFORMACION</clue>
     <clue id="7">TECNOLOGIA</clue>
-    <clue id="8">APRENDIZAJE</clue>
-    <clue id="9">TIC</clue>
-    <clue id="10">DOCENTE</clue>
-    <clue id="11">ALUMNOS</clue>
-    <clue id="12">PRODUCCION</clue>
-    <clue id="13">ONLINE</clue>
-    <clue id="14">SOFTWARE</clue>
-    <clue id="15">TRADICIONAL</clue>
+    <clue id="8">DISEÑO</clue>
+    <clue id="9">APRENDIZAJE</clue>
+    <clue id="10">TIC</clue>
+    <clue id="11">DOCENTE</clue>
+    <clue id="12">ALUMNOS</clue>
+    <clue id="13">PRODUCCION</clue>
+    <clue id="14">ONLINE</clue>
+    <clue id="15">SOFTWARE</clue>
+    <clue id="16">TRADICIONAL</clue>
    </clues>
   </activity>
  </activities>
  <mediaBag>
-  <media name="favicon.ico" file="favicon.ico" />
-  <media name="project-cover.jpg" file="project-cover.jpg" />
-  <media name="project-thumb.jpg" file="project-thumb.jpg" />
-  <media name="icon-192.png" file="icon-192.png" />
-  <media name="icon-72.png" file="icon-72.png" />
   <media name="unnamed.png" file="unnamed.png" />
  </mediaBag>
 </JClicProject>

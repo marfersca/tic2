@@ -1,22 +1,23 @@
 {
   "title": "TIC",
   "date": "18/02/21",
-  "description": {
-    "es": ""
-  },
+  "description": {},
   "license": {
     "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
   },
   "meta_langs": [
     "es"
   ],
-  "mainFile": "tic.jclic",
   "cover": "project-cover.jpg",
   "thumbnail": "project-thumb.jpg",
-  "activities": 2,
-  "mediaFiles": 6,
-  "totalSize": 309412,
+  "mainFile": "tic.jclic",
+  "activities": 6,
+  "mediaFiles": 14,
+  "totalSize": 1106319,
   "files": [
+    "export\\tic/tic.jclic",
+    "export\\tic/tic.jclic.js",
+    "export\\tic/unnamed.png",
     "favicon.ico",
     "icon-192.png",
     "icon-72.png",
@@ -25,6 +26,17 @@
     "project-cover.jpg",
     "project-thumb.jpg",
     "project.json",
+    "projects\\tic/tic.jclic",
+    "projects\\tic/tic.jclic.js",
+    "projects\\tic/unnamed.png",
+    "scorm/favicon.ico",
+    "scorm/icon-192.png",
+    "scorm/icon-72.png",
+    "scorm/project-cover.jpg",
+    "scorm/project-thumb.jpg",
+    "scorm/tic.jclic",
+    "scorm/tic.jclic.js",
+    "scorm/unnamed.png",
     "tic.jclic",
     "tic.jclic.js",
     "unnamed.png"
